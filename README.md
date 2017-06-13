@@ -1,5 +1,8 @@
 # IoTSecurityHub
 
+IoT Security Hub is a user-friendly interface for consumers to visualize Internet of Things (IoT) vulnerabilities in their home. The hub runs on a Raspberry Pi and is configured as a Wi-Fi access point, analyzing connected devices for default passwords, conducting deep packet inspection to find leaking sensitive personal information, and detecting anomalous device behavior in the case of a bot net attack.   
+See IoTNetworkMonitor.pdf for the final report submitted to the Federal Trade Commission's IoT Home Inspector Challenge.
+
 ### Installation
 
 pip install paramiko
